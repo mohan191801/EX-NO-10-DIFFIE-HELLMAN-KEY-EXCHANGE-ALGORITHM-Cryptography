@@ -54,6 +54,7 @@ int main() {
     }
 
 Output:
+
 <img width="712" height="496" alt="image" src="https://github.com/user-attachments/assets/2512b0df-3457-4d5c-aaff-d40ee97a1c3c" />
 
 Result:
